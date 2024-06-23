@@ -2,6 +2,6 @@
 trim_trailing_whitespace = true
 insert_final_newline = true
 
-[*.{js,ts,vue,css,less,html,json,mjs,cjs}]
+[*.{js,ts,vue,css,less,html,json,mjs,cjs,yaml,yml}]
 indent_style = space
 indent_size = 2
